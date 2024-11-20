@@ -1,6 +1,7 @@
 # crispy-palm-tree
 First repository ever!
 ## Sarah's first repo
+## repo's first branch
 
 In this repo, I want to list out diffferent items:
 - This is my **first** item
