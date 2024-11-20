@@ -11,3 +11,14 @@ This is an ordered list:
 1. item one
 2. item two
 3. item three
+
+This is muy interesante :thinking:
+
+~~the world is flat~~
+
+---
+
+>first repository!
+
+:ballet_shoes:
+
